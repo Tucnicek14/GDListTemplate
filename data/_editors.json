@@ -1,12 +1,12 @@
 [
     {
         "role": "owner",
-        "name": "Eben",
+        "name": "List Owner",
         "link": "https://www.youtube.com/@eben1223"
     },
     {
         "role": "admin",
-        "name": "Juiced",
+        "name": "List Admin",
         "link": "https://www.youtube.com/watch?v=VG0owDzKoHM"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "Also Eben",
+        "name": "List Coder",
         "link": "https://www.youtube.com/@eben1223"
     }
 ]
